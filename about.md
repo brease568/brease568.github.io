@@ -4,37 +4,36 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>Hey Everyone!</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>My name is Brian Rease and I am currently studying for my B.S in Computer Science.
+I program with Java, but I'm attempting to gain the same proficiency in Python. My current goals 
+are to finish my degree (projected Spring 2020) and to land a role as a Software Engineer. In the future I plan 
+on pursuing a Masters in Computer Science and learning about Artificial Intelligence.</p>
 
-<h2>Skills</h2>
+<p>I have a full time job in the Cyber field, so I don't have a ton of personal time. I spend a lot of time 
+studying and increasing my programming skills, but when I do have free time I enjoy snowboarding and backpacking. 
+I'll discuss Game of Thrones and The Office with you for as long as you'd like.</p>
+
+<h2>Programming Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>Java</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+</ul>
+
+<h2>Cyber / IT Skills</h2>
+
+<ul class="skill-list2">
+	<li>Unix/Linux</li>
+	<li>Unix/Linux and Windows command line</li>
+	<li>Bash</li>
+	<li>Networking</li>
+	<li>Network and Packet/Protocol Analysis</li>
+	<li>VMWare</li>
+	<li>Kali Linux</li>
+	<li>Metasploit</li>
+	<li>Wireshark</li>
 </ul>
 
 <h2>Projects</h2>
